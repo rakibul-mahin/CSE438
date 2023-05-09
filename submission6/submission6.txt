@@ -1,0 +1,21 @@
+Unlisted youtube video:
+https://youtu.be/W07-qpH5y9w
+
+Slide:
+https://docs.google.com/presentation/d/1GbktGJCco_1rjSsw5rwWCcnDcDs1LjaZLDifxX0rU1U/edit?usp=sharing
+
+Paper title:
+Tomato Leaf Disease Classification with Vision Transformer Variants
+
+Paper PDF link:
+
+Group Number:
+1
+
+Group Members:
+19101249 Aurnab Biswas
+19201015 Fatiha Ishrar Chowdhury
+19201063 Fahmid Bin Kibria
+19301241 Yasmin Nadia
+20201219 Waheed Moonwar
+20201220 Mohammad Rakibul Hasan Mahin
