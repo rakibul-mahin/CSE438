@@ -1,0 +1,37 @@
+Overleaf link with edit access to ST, RA and my gmail.
+https://www.overleaf.com/read/jqrcpnhdyrxd
+
+Unlisted YouTube video:
+https://youtu.be/W07-qpH5y9w
+
+Conference submitted paper / paper submission / login Link:
+https://easychair.org/conferences/overview?a=30912262
+
+Paper title:
+Tomato Leaf Disease Classification with Vision Transformer Variants
+
+Paper presentation (anyone can view without login):
+https://docs.google.com/presentation/d/1GbktGJCco_1rjSsw5rwWCcnDcDs1LjaZLDifxX0rU1U/edit?usp=sharing
+
+Paper submission date (to workshop/conference):
+10 May 2023
+
+Paper submission ID: (received) from conference/workshop
+1018
+
+Conference Name:
+The 7th Asian Conference on Pattern Recognition (ACPR2023)
+
+Conference URL:
+https://ericlab.org/acpr2023/
+
+Group Number:
+1
+
+Group Members:
+19101249 Aurnab Biswas
+19201015 Fatiha Ishrar Chowdhury
+19201063 Fahmid Bin Kibria
+19301241 Yasmin Nadia
+20201219 Waheed Moonwar
+20201220 Mohammad Rakibul Hasan Mahin
