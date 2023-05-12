@@ -1,0 +1,32 @@
+Overleaf link with edit access to ST, RA and my gmail.
+https://www.overleaf.com/project/645e73379ae02bc9099720aa
+
+Conference submitted paper / paper submission / login Link:
+https://editorone.org/login
+
+Paper title:
+Similarity Learning for Matching Hand Written Digits
+
+Paper submission date (to workshop/conference):
+13 May 2023
+
+Paper submission ID: (received) from conference/workshop
+000056
+
+Conference Name:
+2023 IEEE 5th International Conference on Artificial Intelligence and Computer Applications (ICAICA 2023)
+November 28-30, 2023 (Dalian, China)
+
+Conference URL:
+http://www.icaica.org/index.html
+
+Group Number:
+1
+
+Group Members:
+19101249 Aurnab Biswas
+19201015 Fatiha Ishrar Chowdhury
+19201063 Fahmid Bin Kibria
+19301241 Yasmin Nadia
+20201219 Waheed Moonwar
+20201220 Mohammad Rakibul Hasan Mahin
